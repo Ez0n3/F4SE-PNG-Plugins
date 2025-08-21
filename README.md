@@ -8,7 +8,7 @@
   
 ## Description:  
   
-Updated: **August 20, 2025**  
+Updated: **August 21, 2025**  
   
 This repo contains Plugins for Fallout 4 (Pre-Next-Gen) - F4SE-PNG, including a Plugin Example (**Status: Untested**).  
   

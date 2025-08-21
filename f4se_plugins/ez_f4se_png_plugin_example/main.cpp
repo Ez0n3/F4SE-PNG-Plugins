@@ -115,7 +115,7 @@ extern "C" { // Start: extern "C"
 // ================================
 
 /*
-// F4SE PNG does not use this
+// F4SE-PNG does not use this
 __declspec(dllexport) F4SEPluginVersionData F4SEPlugin_Version =
 {
 };
@@ -163,7 +163,7 @@ bool F4SEPlugin_Query(const F4SEInterface* f4se, PluginInfo* info)
 // ================================
 
 /*
-// NVSE PNG does not use this
+// F4SE-PNG does not use this
 bool F4SEPlugin_Preload(const F4SEInterface* f4se)
 {
 }
